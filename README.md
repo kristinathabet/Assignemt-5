@@ -51,6 +51,14 @@ This prototype was fairly easy for my user to interact with. After explaining to
 
 
 ### Reflection
+I enjoyed thinking about the most logical way to flow through the wireframe I created. I found it very difficult to create detailed low-fidelity protoypes that stemed from the New York DMV website because there are so many different options and buttons that can be included. It was also challenging doing the prototype on paper because you can add less words that way and everything needs to be very legible. This activity overall gave me a new perspective of the prototype I created. Having an outside user interact with my wireframe showed me that not everyone has the same logical thought process as me, so my design needs to be as clear and intuitive as possible. The next time I create wireframes and wireflows, I would do a first draft where I write in words every step that needs to be done, so I make sure to add all appropriate buttons. Also, I will make sure to draw arrows for every option that is clickable, instead of just drawing arrows directly to what will complete the task I wanted the user to complete.
+Below I will address the confusion the user had with each of these tasks, and how I will improve it in the future. 
+1. Find steps to obtain a New York license: The user=[]
+
+
+3. Change the name on a license
+4. Find information about medical conditions that hinder legal and safe driving
+
 I enjoyed drawing the wireframes and designing how I'd like it to look like. When I want to add some buttoms or features, I searched online to see how they look like that way I can replicate it. Putting my ideas onto paper is harder than I thought but it is a fun process nonetheless. When I draw the wireflows, I can see what I need to add to the wireframes. From testing the prototype, I found even more missed elements in the wireframes, such as a **Next** button rather than just a **Skip** button.  
 
 The next time I create wireframes and wireflows, I would make a flow chart with just words so I can visualize the entire sequence in order to include all the buttons. For this prototype, I would need to add all the buttons and draw the wireframes for all the other buttons I included but were not going to be tested. If I need to be more detailed, I would draw dropdown menus to wireframes that have them too. 

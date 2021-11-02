@@ -47,6 +47,8 @@ This prototype was fairly easy for my user to interact with. After explaining to
 
 <img width="430" alt="Screen Shot 2021-11-02 at 3 02 32 PM" src="https://user-images.githubusercontent.com/91553084/139958808-d78b5fa5-16f0-4976-a2f4-745cb7708275.png">
 
+<img width="409" alt="Screen Shot 2021-11-02 at 3 02 21 PM" src="https://user-images.githubusercontent.com/91553084/139958850-d4090a34-fb85-4429-a2ee-afe1eed2d979.png">
+
 
 ### Reflection
 I enjoyed drawing the wireframes and designing how I'd like it to look like. When I want to add some buttoms or features, I searched online to see how they look like that way I can replicate it. Putting my ideas onto paper is harder than I thought but it is a fun process nonetheless. When I draw the wireflows, I can see what I need to add to the wireframes. From testing the prototype, I found even more missed elements in the wireframes, such as a **Next** button rather than just a **Skip** button.  

@@ -13,7 +13,7 @@ Based on my contextual inquiry, I will focus on these three research questions:
 * How might we make others feel more in line with their identity, making sure all information on their license is accurate?
 * How might we create an intuitive design that users can interact with effortlessly?
 
-Here is more information on the [user research](https://github.com/lilliannguyen97/DH150/blob/master/Assignments/A04/README.md).
+Here is more information on the [user research](https://github.com/kristinathabet/Dh110-Assignment-4-Contextual-inquiry/blob/main/README.md).
 
 ### Personas and Scenarios
 I created personas and scenarios centered around features that would solve each research question.

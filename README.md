@@ -38,9 +38,6 @@ Here is more information on the [personas and scenarios](https://github.com/kris
 ### 3: Find information about medical conditions that hinder legal and safe driving
 <img width="389" alt="Screen Shot 2021-11-02 at 1 43 29 PM" src="https://user-images.githubusercontent.com/91553084/139949026-964d7e5b-500b-47fd-9694-1245331b6637.png">
 
-![Lofi Prototype 1](Lofi_Prototype_1.jpg)
-![Lofi Prototype 2](Lofi_Prototype_2.jpg)
-![Lofi Prototype 3](Lofi_Prototype_3.jpg)
 
 ## Low-Fidelity Prototype Testing
 ![Lofi Prototype Test 1](Lofi_Prototype_Test_1.jpg)

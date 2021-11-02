@@ -33,6 +33,8 @@ Here is more information on the [personas and scenarios](https://github.com/kris
 <img width="496" alt="Screen Shot 2021-11-02 at 1 43 10 PM" src="https://user-images.githubusercontent.com/91553084/139948838-88fb0ea2-4c77-44f3-8784-ecb0c2326a6c.png">
 
 2: Change name of your license
+<img width="492" alt="Screen Shot 2021-11-02 at 1 43 41 PM" src="https://user-images.githubusercontent.com/91553084/139948920-25d34dc1-44ef-4c39-b167-a33c51a6333e.png">
+
 3: Find information about medical conditions that hinder legal and safe driving
 ![Lofi Prototype 1](Lofi_Prototype_1.jpg)
 ![Lofi Prototype 2](Lofi_Prototype_2.jpg)

@@ -16,17 +16,17 @@ Based on my contextual inquiry, I will focus on these three research questions:
 Here is more information on the [user research](https://github.com/kristinathabet/Dh110-Assignment-4-Contextual-inquiry/blob/main/README.md).
 
 ### Personas and Scenarios
-I created personas and scenarios centered around features that would solve each research question.
-* A man with medium technical literacy and wants to have transparent and timely updates on his reports.
-* A new undergraduate with high technical literacy and wants to browse and search for other reports in her community.
-* An elderly woman with low technical literacy and wants to submit reports quickly and effortlessly.
+I created personas and scenarios centered around certain features that would solve each research question.
+* A new internet personality who is rising to stardom and wishes to change his name on his license to his new legal name.
+* A high school senior who needs to obtain her license to secure her styling internship. She is immunocompromized and cannot user public transportation due to the rapid spread of COVID19.
+* An elderly woman with low technical literacy who wants to check if her medical conditions will hinder her to legally drive in the state of New York. 
 
-Here is more information on the [personas and scenarios](https://github.com/lilliannguyen97/DH150/blob/master/Assignments/A05/README.md).
+Here is more information on the [personas and scenarios](https://github.com/kristinathabet/PersonasWEEK6/blob/main/README.md).
 
 ### Tasks/Features
-1. Make a report
-1. Check my reports
-1. Check other reports with filter/advanced search
+1. Find steps to obtain a New York license
+1. Change the name on a license
+1. Find information about medical conditions that hinder legal and safe driving
 
 ## Wireframes and Wireflows
 ![Lofi Prototype 1](Lofi_Prototype_1.jpg)

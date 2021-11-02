@@ -25,10 +25,13 @@ Here is more information on the [personas and scenarios](https://github.com/kris
 
 ### Tasks/Features
 1. Find steps to obtain a New York license
-1. Change the name on a license
-1. Find information about medical conditions that hinder legal and safe driving
+2. Change the name on a license
+3. Find information about medical conditions that hinder legal and safe driving
 
 ## Wireframes and Wireflows
+1: Find steps to obtain a license
+2: Change name of your license
+3: Find information about medical conditions that hinder legal and safe driving
 ![Lofi Prototype 1](Lofi_Prototype_1.jpg)
 ![Lofi Prototype 2](Lofi_Prototype_2.jpg)
 ![Lofi Prototype 3](Lofi_Prototype_3.jpg)

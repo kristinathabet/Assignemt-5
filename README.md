@@ -3,15 +3,15 @@
 ## Overview
 
 ### Purpose 
-Low-fidelity prototyping is a quick and low-cost way to design and test the contents of an artifact before fully investing time and money into developing the product. This allows you to get feedback from users, uncover problems early on, and make changes during the beginning stages of the design cycle. 
+Low-fidelity prototyping is a quick and inexpensive way to test user interactions before fully investing in creating a product. Low-Fidelity prototyping is usually hand drawn mockups and does not involve actual user interaction. This is important in order to gain feedback from users and uncover problems before a lot of money in invested into making a fully product. This is the best stage of the design process to make large adjustments to the design, once developers can see the physical wireflow of the application.
 
-By making low-fidelity prototypes for my project, I can test the features of my design with users and make further improvements before working on the high-fidelity prototypes.
+By making low-fidelity prototypes for project, I can test the functionality of my design with users and make further adjustments to the design before working on the high-fidelity prototypes.
 
 ### User Research
 Based on my contextual inquiry, I will focus on these three research questions:
-* How might we improve the report system for better tracking?
-* How might we bring locals together to contribute toward keeping San Jose clean and safe?
-* How might we create an intuitive design so users can accomplish tasks quickly and effortlessly?
+* How can we improve thiss website in order to easily find all paperwork needed to obtain a license in New York?
+* How might we make others feel more in line with their identity, making sure all information on their license is accurate?
+* How might we create an intuitive design that users can interact with effortlessly?
 
 Here is more information on the [user research](https://github.com/lilliannguyen97/DH150/blob/master/Assignments/A04/README.md).
 

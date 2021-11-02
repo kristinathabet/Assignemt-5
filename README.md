@@ -40,7 +40,8 @@ Here is more information on the [personas and scenarios](https://github.com/kris
 
 
 ## Low-Fidelity Prototype Testing
-
+### User's Reaction to the Testing
+This prototype was fairly easy for my user to interact with. After explaining to the user what the system was supposed to do, they followed the arrows and used their logic to flow from one wireframe to the other. The only points of confusion were when the user attempted to go to the "Ask a Question Page" and there was no wireframe that followed it. The user did not notice that back arrow that takes you back to the previous page you were at, which could have been used to redirect from the questions page. Below are some photos of my user working through the three low-fidelity prototypes. 
 
 ### Reflection
 I enjoyed drawing the wireframes and designing how I'd like it to look like. When I want to add some buttoms or features, I searched online to see how they look like that way I can replicate it. Putting my ideas onto paper is harder than I thought but it is a fun process nonetheless. When I draw the wireflows, I can see what I need to add to the wireframes. From testing the prototype, I found even more missed elements in the wireframes, such as a **Next** button rather than just a **Skip** button.  

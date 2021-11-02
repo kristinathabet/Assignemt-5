@@ -55,5 +55,6 @@ I enjoyed thinking about the most logical way to flow through the wireframe I cr
 Below I will address the confusion the user had with each of these tasks, and how I will improve it in the future. 
 * 1. Find steps to obtain a New York license: The user= struggled to decifer weatehr the words on the wireframe were buttons you can click on or just general information laid out on the page. Moving forward, I will make she it is clear which words are buttons and which are not. 
 * 2. Change the name on a license: The user was confused whether or not she should follow the "Standard ID" tab or the "Real ID" tab. Moving forward, I will define the difference between the two on the same page, making it easy for users to make a decision. 
-* 3. Find information about medical conditions that hinder legal and safe driving: This wireflow was generally very intuitve for the user. Not many issues arose, but I will make sure to be much more detailed moving forward. 
+* 3. Find information about medical conditions that hinder legal and safe driving: This wireflow was generally very intuitve for the user. Not many issues arose, but I will make sure to be much more detailed in the option choices moving forward. 
+Overall, this assignment gave me a fresh perspective about how users will interact with my prototype.
 

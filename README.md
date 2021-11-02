@@ -40,9 +40,7 @@ Here is more information on the [personas and scenarios](https://github.com/kris
 
 
 ## Low-Fidelity Prototype Testing
-![Lofi Prototype Test 1](Lofi_Prototype_Test_1.jpg)
-![Lofi Prototype Test 2](Lofi_Prototype_Test_2.jpg)
-![Lofi Prototype Test 3](Lofi_Prototype_Test_3.jpg)
+
 
 ### Reflection
 I enjoyed drawing the wireframes and designing how I'd like it to look like. When I want to add some buttoms or features, I searched online to see how they look like that way I can replicate it. Putting my ideas onto paper is harder than I thought but it is a fun process nonetheless. When I draw the wireflows, I can see what I need to add to the wireframes. From testing the prototype, I found even more missed elements in the wireframes, such as a **Next** button rather than just a **Skip** button.  
